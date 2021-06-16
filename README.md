@@ -41,7 +41,7 @@ Regression Analysis and Classification Analysis were both applied on this data s
 ![image](https://user-images.githubusercontent.com/72796509/122202145-5f1e6b00-ceba-11eb-98ff-aadae513833d.png)
 
 <a href = "https://github.com/mksami22/Crop-Yield-Prediction/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = radhika2026/Crop-Yield-Prediction"/>
+  <img src = "https://contrib.rocks/image?repo = mksami22/Crop-Yield-Prediction"/>
 </a>
 
 
